@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "calendar-spfx",
+    "libraryId": "b8184110-b0de-4381-81ef-10a33ab7b09b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "calendar-spfx",
+    "solutionShortDescription": "calendar-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
